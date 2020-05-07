@@ -1,3 +1,9 @@
+# rustlings solutions
+
+My solutions to the rustlings problems. There are probably better ways of answering many of the problems, but this is my first serious attempt at writing Rust. Original readme follows.
+
+----
+
 ![crab pet](https://i.imgur.com/LbZJgmm.gif)
 
 # rustlings 🦀❤️ [![Build status](https://badge.buildkite.com/7af93d81dc522c67a1ec8e33ff5705861b1cb36360b774807f.svg)](https://buildkite.com/mokou/rustlings)
